@@ -1,0 +1,245 @@
+#quote1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-size: 110%;
+    color: rgb(141, 97, 67);
+    text-align:middle;
+    background-image: url( file:///Users/alondralopez/Desktop/Screen%20Shot%202021-03-31%20at%201.21.43%20AM.jpg); 
+    background-size: cover;
+  
+    }
+
+#title{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 310%;
+    color:rgb(156, 102, 80);
+    text-align: center;
+    background-image:url( file:///Users/alondralopez/Desktop/Screen%20Shot%202021-03-31%20at%201.21.43%20AM.jpg); 
+    background-size: cover;
+    border-color: brown;
+    padding: 100px 50px 100px 50px;
+
+}
+
+.carousel-item{
+    height: 25px;
+} 
+.carousel-item img{
+    height: 25px;
+}
+#title1{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#myweek{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 130%;
+    color: whitesmoke;
+    background-image:url(https://i.pinimg.com/236x/35/8c/a2/358ca210aad4acda7a0d3c2d586d3416.jpg);
+    width: 300px;  
+    height: auto;
+    border: 10px solid whitesmoke;
+    padding: 15px 15px 15px 15px;
+    margin:10px;
+}
+
+#myday{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 130%;
+    color: whitesmoke;
+    background-image:url(https://i.pinimg.com/236x/f9/95/98/f995988cb9124bd6ca2b84731921e103--aesthetics-photography-ideas.jpg);
+    background-size: cover;
+    padding: 15px 15px 15px 15px;
+    margin:10px;
+    height: 180px;
+    width: 180px;
+    border: 10px solid whitesmoke;
+}
+#mygoals{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 130%;
+    color: whitesmoke;
+    background-image:url(https://i.pinimg.com/564x/dd/f9/8b/ddf98b888d18d7e89d4642020ba7ef87.jpg);
+    background-size: cover;
+    height: 180px;
+     width: 180px;
+     border: 10px solid whitesmoke;
+     height: 180px;
+     padding: 15px 15px 15px 15px;
+     margin:10px;
+    }
+#mymonth{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 130%;
+    color: whitesmoke;
+    background-image:url(https://i.pinimg.com/236x/28/2e/88/282e88108b73f514d5db50fdf0f2215c.jpg);
+    background-size: cover;
+    height: 180px;
+     width: 180px;
+     border: 10px solid whitesmoke;
+     height: 180px;
+    padding: 15px 15px 15px 15px;
+    margin:10px;
+    }
+    
+    #focus{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 200%;
+        color:rgb(114, 52, 23);
+        padding:10px 10px 10px 10px;
+}
+    .Focus{
+    font-size: 100%;
+    border-color:rgb(114, 52, 23);   
+ padding:10px 125px 10px 10px;
+    border-radius: 15px;
+    background-color:transparent;
+    font-family:fantasy;
+    color: rgb(180, 100, 80);
+}
+#focus1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+    color:rgb(172, 111, 83);
+    padding:10px 500px 10px 10px;
+    border-radius: 15px;
+    border-color: rgb(90, 39, 15);
+    Margin:5px;
+}
+#quote2{
+    border: 10px solid rgb(255, 255, 255);
+}
+#quote3{
+    border: 10px solid rgb(255, 255, 255);
+
+}
+.quicklinks{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 110%;
+    color: sienna !important;
+    text-align: left;
+    margin: 5px;
+    background-image: url(https://i.pinimg.com/originals/49/ae/bf/49aebf416b366d86f0bed1c2ddcc0cf7.jpg); 
+    padding: 10px 60px 10px 60px; 
+    border-radius: 15px;
+    border-color:rgb(90, 39, 15);
+
+}
+    
+   
+#quicklink{
+    padding: 10px 20px 10px 20px;
+    text-align: match-parent;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 200%;
+    color:rgb(114, 52, 23);
+    
+}
+#indentation{
+    text-align: center;
+   padding: 275px 20px 10px 20px;
+
+}
+.btnbtn-outline-secondary{
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+    font-size: 110% !important;
+    color: sienna !important;
+    text-align: left;
+    margin: 5px;
+    background-image: url(https://i.pinimg.com/originals/49/ae/bf/49aebf416b366d86f0bed1c2ddcc0cf7.jpg); 
+    padding: 15px 50px 15px 50px; 
+    border-radius: 15px;
+
+}
+/*
+Beginning of My Week CSS
+
+*/
+#Title{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 310%;
+    color:rgb(156, 102, 80);
+    text-align: center;
+    background-image:url(https://i.pinimg.com/474x/e3/8c/0b/e38c0baf26749b2b0b02564d1a91f928.jpg); 
+    background-size:contain;
+    border-color: brown;
+    padding: 100px 60px 200px 60px;
+}
+
+#projectslist{
+    padding: 10px 20px 10px 20px;
+    text-align: match-parent;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 150%;
+    color:rgb(114, 52, 23);
+    outline: 2px dotted rgb(78, 50, 7);
+
+}
+#image1{
+    background-image: url(https://i.pinimg.com/474x/25/6e/92/256e92452c33c2f110c37f6c1f1a6158.jpg);
+    background-repeat: repeat;
+    background-size: contain;
+   height:100%;
+   width: 100%; 
+}
+.projectslist1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 110%;
+    color: sienna !important;
+    text-align: left;
+    margin: 5px;
+    background-image: url(https://i.pinimg.com/originals/49/ae/bf/49aebf416b366d86f0bed1c2ddcc0cf7.jpg); 
+    padding: 10px 60px 10px 60px; 
+    border-radius: 15px;
+    border-color:rgb(90, 39, 15);
+
+}
+.Notes{
+    text-align: center;
+    padding: 10px 20px 10px 20px;
+    text-align: match-parent;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 150%;
+    color:rgb(114, 52, 23);
+    outline: 2px dotted rgb(78, 50, 7);
+}
+.notes{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 110%;
+    color: sienna ;
+    text-align: center;
+    margin: 5px;
+  padding: 10px 100px 10px 100px; 
+    border-radius: 15px;
+    border-color:rgb(90, 39, 15);
+}
+.list-link{
+    color: teal ;
+
+    
+
+}
+
+
+
+body{
+     
+        background-image:url(https://i.pinimg.com/564x/d7/5c/75/d75c75ddaf9b22b5bf309cae8ae0fd5f.jpg);
+       opacity:70%;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        position: absolute;
+        z-index: -1;   
+      }
+
+#Welcomepage{
+    text-align: left;
+    font-family:fantasy;
+    color: rgb(180, 100, 80);
+    font-size: 3.75em;
+
+}
+
+

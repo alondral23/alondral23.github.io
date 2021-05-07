@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<!-- JavaScript Bundle with Popper -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+    integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+    integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+    crossorigin="anonymous"></script>
+<html>
+
+<body>
+    <p id="demo"></p>
+    <!-- <ol>
+    <li id='apples'>apples</li>
+    <button onclick="stikeOut('apples')"></button>
+    <li id="demo">Yougurt</li>
+    <button onclick="stikeOut()"></button>
+    <li id="demo">Water</li>
+    <button onclick="stikeOut()"></button>
+    <li id="demo">Milk</li>
+    <button onclick="stikeOut()"></button>
+
+</ol>
+<script>
+    function strikeOut(){
+       var str ='apples';
+       var result = str.strikeOut();
+       document.getElementById("demo").innerHTML = result;
+       }
+    
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<button onclick="strikeOutInput()">Try it</button>
+
+<p id="all"></p>
+<form>
+    <input id="all">
+    <button onclick="strikeOutInput(id="all")></button>
+</input>
+</form>
+
+<script>
+function strikeOutInput(id) {
+  var listItem = document.getElementById(id);
+  listItem.style.textDecoration = "line-through";
+   document.getElementById(id)=result
+}
+</script>
+<script>
+function strikeOut(id) {
+    var str = document.getElementById(id).innerHTML;
+    var result = str.strike();
+    document.getElementById(id).innerHTML = result;
+  }-->
+    <!-- 
+<form>
+    <input></input>
+    <button onclick="strikeOutInput(id)"></button>
+</form>
+
+
+  <ol>
+    <li id="milk">Milk</li>
+    <button onclick="strikeOutInput('milk')">Complete</button>
+    <li id="oranges">Oranges</li>
+    <button onclick="strikeOutInput('oranges')">Complete</button>
+    </ol>
+    <script>
+      function strikeOutInput(id) {
+  var listItem = document.getElementById(id).innerHTML;
+  var  result = listItem.strike();
+   document.getElementById(id).innerHTML=result;}-->
+
+        <input id="firstItem">
+        <button onclick="strikeOutInput('firstItem')">Done</button>
+
+    <script>
+        function strikeOutInput(id) {
+            var listItem = document.getElementById(id);
+            var result = listItem.style.textDecoration = "line-through";
+            document.getElementById(id) = result
+        }
+    </script>
+
+
+
+</body>
+
+</html>
