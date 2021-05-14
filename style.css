@@ -99,6 +99,16 @@
     font-family:fantasy;
     color: rgb(180, 100, 80);
 }
+.Focusbutton{
+    font-size: 100%;
+    border-color:rgb(114, 52, 23);   
+ padding:10px 10px 10px 10px;
+    border-radius: 15px;
+    background-color: rgb(180, 100, 80);;
+    font-family:fantasy;
+    color: white;
+}
+
 #focus1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 100%;
@@ -349,5 +359,15 @@ Beginning of My Week CSS
     border: 10px solid whitesmoke;
 }
 .textNotes{
+    text-align: center;
+}
+#indentation{
+    text-align: center;
+   padding: 275px 20px 10px 20px;
+
+
+
+}
+.monthcalenda{
     text-align: center;
 }
