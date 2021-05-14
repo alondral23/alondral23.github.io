@@ -35,10 +35,12 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 130%;
     color: whitesmoke;
-    background-image:url(https://i.pinimg.com/236x/35/8c/a2/358ca210aad4acda7a0d3c2d586d3416.jpg);
-    width: 300px;  
-    height: auto;
-    border: 10px solid whitesmoke;
+    background-image:url(Inpirational\ Quotes/Picture6.jpg);
+    background-size: cover;
+    height: 320px;
+    width: 320px;
+     border: 10px solid whitesmoke;
+
     padding: 15px 15px 15px 15px;
     margin:10px;
 }
@@ -51,20 +53,20 @@
     background-size: cover;
     padding: 15px 15px 15px 15px;
     margin:10px;
-    height: 180px;
-    width: 180px;
+    height: 320px;
+    width: 320px;
     border: 10px solid whitesmoke;
 }
 #mygoals{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 130%;
     color: whitesmoke;
-    background-image:url(https://i.pinimg.com/564x/dd/f9/8b/ddf98b888d18d7e89d4642020ba7ef87.jpg);
+    background-image:url(Inpirational\ Quotes/Website2.jpg);
     background-size: cover;
-    height: 180px;
-     width: 180px;
+    height: 320px;
+    width: 320px;
      border: 10px solid whitesmoke;
-     height: 180px;
+  
      padding: 15px 15px 15px 15px;
      margin:10px;
     }
@@ -72,12 +74,12 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 130%;
     color: whitesmoke;
-    background-image:url(https://i.pinimg.com/236x/28/2e/88/282e88108b73f514d5db50fdf0f2215c.jpg);
+    background-image:url(Inpirational\ Quotes/Picture5.jpg);
     background-size: cover;
-    height: 180px;
-     width: 180px;
+   
      border: 10px solid whitesmoke;
-     height: 180px;
+    height: 320px;
+     width: 320px;
     padding: 15px 15px 15px 15px;
     margin:10px;
     }
@@ -135,9 +137,8 @@
     color:rgb(114, 52, 23);
     
 }
-#indentation{
-    text-align: center;
-   padding: 275px 20px 10px 20px;
+
+   
 
 }
 .btnbtn-outline-secondary{
@@ -173,6 +174,7 @@ Beginning of My Week CSS
     font-size: 150%;
     color:rgb(114, 52, 23);
     outline: 2px dotted rgb(78, 50, 7);
+    
 
 }
 #image1{
@@ -192,6 +194,7 @@ Beginning of My Week CSS
     padding: 10px 60px 10px 60px; 
     border-radius: 15px;
     border-color:rgb(90, 39, 15);
+    
 
 }
 .Notes{
@@ -214,7 +217,7 @@ Beginning of My Week CSS
     border-color:rgb(90, 39, 15);
 }
 .list-link{
-    color: teal ;
+    color: rgb(145, 49, 32) ;
 
     
 
@@ -222,7 +225,7 @@ Beginning of My Week CSS
 
 
 
-body{
+.body{
      
         background-image:url(https://i.pinimg.com/564x/d7/5c/75/d75c75ddaf9b22b5bf309cae8ae0fd5f.jpg);
        opacity:70%;
@@ -242,4 +245,109 @@ body{
 
 }
 
+#homepage{
+    background-image:url(https://plainbackground.com/plain1024/c4a183.png);
+    opacity:70%;
 
+}
+
+#row1column1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 130%;
+    color: whitesmoke;
+    background-image:url(Inpirational\ Quotes/Picture3.jpg);
+    background-size: cover;
+    padding: 15px 15px 15px 15px;
+    margin:10px;
+    height: 320px;
+    width: 320px;
+    border: 10px solid whitesmoke;
+
+}
+#row1column2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 130%;
+    color: whitesmoke;
+    background-image:url(https://i.pinimg.com/236x/f9/95/98/f995988cb9124bd6ca2b84731921e103--aesthetics-photography-ideas.jpg);
+    background-size: cover;
+    padding: 15px 15px 15px 15px;
+    margin:10px;
+    height: 320px;
+    width: 320px;
+    border: 10px solid whitesmoke;
+}
+#row1column3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 130%;
+    color: whitesmoke;
+    background-image:url(Inpirational\ Quotes/Picture6.jpg);
+    background-size: cover;
+    padding: 15px 15px 15px 15px;
+    margin:10px;
+    height: 320px;
+    width: 320px;
+    border: 10px solid whitesmoke;
+}
+#row1column4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 130%;
+    color: whitesmoke;
+    background-image:url(Inpirational\ Quotes/Website2.jpg);
+    background-size: cover;
+    padding: 15px 15px 15px 15px;
+    margin:10px;
+    height: 320px;
+    width: 320px;
+    border: 10px solid whitesmoke;
+}
+#row3column1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 130%;
+    color: whitesmoke;
+    background-image:url(Inpirational\ Quotes/Website2.jpg);
+    background-size: cover;
+    padding: 15px 15px 15px 15px;
+    margin:10px;
+    height: 320px;
+    width: 320px;
+    border: 10px solid whitesmoke;
+}
+#row3column2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 130%;
+    color: whitesmoke;
+    background-image:url(Inpirational\ Quotes/Website2.jpg);
+    background-size: cover;
+    padding: 15px 15px 15px 15px;
+    margin:10px;
+    height: 320px;
+    width: 320px;
+    border: 10px solid whitesmoke;
+}
+#row3column3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 130%;
+    color: whitesmoke;
+    background-image:url(Inpirational\ Quotes/Picture5.jpg);
+    background-size: cover;
+    padding: 15px 15px 15px 15px;
+    margin:10px;
+    height: 320px;
+    width: 320px;
+    border: 10px solid whitesmoke;
+}
+#row3column4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 130%;
+    color: whitesmoke;
+    background-image:url(Inpirational\ Quotes/Picture3.jpg);
+    background-size: cover;
+    padding: 15px 15px 15px 15px;
+    margin:10px;
+    height: 320px;
+    width: 320px;
+    border: 10px solid whitesmoke;
+}
+.textNotes{
+    text-align: center;
+}
